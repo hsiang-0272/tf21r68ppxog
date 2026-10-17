@@ -1,5 +1,5 @@
 // 離線快取：頁面走「先網路、失敗用快取」，照片／地圖／字型走「先快取、沒有再下載並存起來」。
-const SHELL = "suwa2026-shell-8138ab9229";
+const SHELL = "suwa2026-shell-26f4fd3334";
 const MEDIA = "suwa2026-media";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/apple-touch-icon.png"];
 
